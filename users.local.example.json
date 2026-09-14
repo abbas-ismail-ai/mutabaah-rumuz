@@ -1,0 +1,177 @@
+[
+  {
+    "full_name": "Asma Wildatush sholikhah",
+    "username": "asma",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Akhwat",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Syahda Iftinan Yumna",
+    "username": "syahda",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Akhwat",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Annisa Shofiya Fajri",
+    "username": "annisa",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Akhwat",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Lathifah Asri Damayanti",
+    "username": "lathifah",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Akhwat",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Salsabila Yumna Agustin",
+    "username": "yumna",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Akhwat",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Amidan Fikril Amri",
+    "username": "amidan",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Salman",
+    "username": "salman",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Ukasyah",
+    "username": "ukasyah",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Naufal",
+    "username": "naufal",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Fatih Ar Royyan",
+    "username": "fatih",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Hammam Abdurrohman",
+    "username": "abdurrahman",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Hanif izzan",
+    "username": "izzan",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Harkan",
+    "username": "harkan",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Muhammad Sayyid Dhio Rizki Taufikurahman",
+    "username": "sayyid",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Rama Choliq Ashari",
+    "username": "rama",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Hasan abdillah",
+    "username": "hasan",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Hanif Faruq",
+    "username": "hanif",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Muhammad Sultan Pajri",
+    "username": "pajri",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Muhammad Hammam Al Atsary",
+    "username": "hammam",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Nibraz Ardhy Kesuma",
+    "username": "nibraz",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "mahasiswa"
+  },
+  {
+    "full_name": "Rara Adila",
+    "username": "rara",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Akhwat",
+    "role": "pengampu"
+  },
+  {
+    "full_name": "Amalia Sumayyah",
+    "username": "maya",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Akhwat",
+    "role": "pengampu"
+  },
+  {
+    "full_name": "Maimunah Mutmainah",
+    "username": "muna",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Akhwat",
+    "role": "pengampu"
+  },
+  {
+    "full_name": "Muhammad Harits",
+    "username": "harits",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "pengampu"
+  },
+  {
+    "full_name": "Ismail Abbas",
+    "username": "abbas",
+    "password": "ISI_PASSWORD_DI_SINI",
+    "gender": "Ikhwan",
+    "role": "pengampu"
+  }
+]
